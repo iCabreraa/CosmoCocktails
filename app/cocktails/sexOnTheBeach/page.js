@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Sex on the Beach</h1>;
+  return <h1>Sex On The Beach</h1>;
 }

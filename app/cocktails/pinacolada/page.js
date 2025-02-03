@@ -1,3 +1,10 @@
 export default function Page() {
-  return <h1>Pina Colada</h1>;
+  return (
+    <div>
+      <h1>Pina Colada</h1>
+      <h1>Pina Colada</h1>
+      <h1>.</h1>
+      <h1>Pina Colada</h1>
+    </div>
+  );
 }

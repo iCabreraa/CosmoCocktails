@@ -1,3 +1,10 @@
 export default function Page() {
-  return <h1>Margarita</h1>;
+  return (
+    <div>
+      <h1>Margarita</h1>
+      <h1>Margarita</h1>
+      <h1>.</h1>
+      <h1>Margarita</h1>
+    </div>
+  );
 }

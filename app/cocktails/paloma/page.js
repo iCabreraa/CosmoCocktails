@@ -1,3 +1,10 @@
 export default function Page() {
-  return <h1>Paloma</h1>;
+  return (
+    <div>
+      <h1>Paloma</h1>
+      <h1>Paloma</h1>
+      <h1>.</h1>
+      <h1>Paloma</h1>
+    </div>
+  );
 }

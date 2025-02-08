@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Pornstar Martini",
+};
+
 export default function Page() {
   return (
     <div>

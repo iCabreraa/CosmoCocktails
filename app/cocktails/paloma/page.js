@@ -1,3 +1,6 @@
+export const metadata = {
+  title: "Paloma",
+};
 export default function Page() {
   return (
     <div>

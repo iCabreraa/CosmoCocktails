@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Gin N Tonic",
+};
+
 export default function Page() {
   return (
     <div>

@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Sex on the Beach",
+};
+
 export default function Page() {
   return (
     <div>

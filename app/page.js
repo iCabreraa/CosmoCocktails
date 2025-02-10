@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+
 import bg from "@/public/bg.png";
 
 export default function Page() {
@@ -18,7 +19,7 @@ export default function Page() {
         </h1>
         <Link
           href="/cocktails"
-          className="bg-accent-500 px-4 py-2 sm:px-6 sm:py-4 text-primary-900 text-lg font-semibold rounded-lg shadow-md hover:bg-accent-600 transition-all"
+          className="bg-accent-500 px-6 py-4 text-primary-900 text-lg font-semibold rounded-lg shadow-md hover:bg-accent-600 transition-all"
         >
           Explore Cocktails
         </Link>
